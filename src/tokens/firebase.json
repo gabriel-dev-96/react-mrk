@@ -1,0 +1,9 @@
+{
+    "apiKey": "AIzaSyDCqafTpKUVF_KSU4XAQFhYmAxIsS6fh20",
+    "authDomain": "react-mark.firebaseapp.com",
+    "databaseURL": "https://react-mark.firebaseio.com",
+    "projectId": "react-mark",
+    "storageBucket": "react-mark.appspot.com",
+    "messagingSenderId": "907872302962",
+    "appId": "1:907872302962:web:fd59c538d8410ce3fdcfeb"
+}
